@@ -1,16 +1,11 @@
-# suitmedia_flutter_app
+<h2>Data Diri</h2>
+Nama : Muhammad Majdi <br>
+Perguruan Tinggi : Universitas Lambung Mangkurat <br>
+Program Studi : Teknologi Informasi<br>
+Alamat : Banjar, Kalimantan Selatan <br>
+Nomor Telepon (WA) : 0882 4541 1080 <br>
+Email : mhdmajdi2108@gmail.com
 
-A new Flutter project.
+<h2> Preview </h2>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![suitmedia_screenshot](https://github.com/Morfz/suitmedia_flutter_app/assets/100391684/373a4fc1-e9b6-409c-9674-a80f35a17cf3)
